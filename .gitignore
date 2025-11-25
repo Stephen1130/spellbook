@@ -1,5 +1,4 @@
 .DS_Store
-.vscode
 manifest.json
 dbt_macros/dune/create_views_of_dependencies.sql
 dbt_macros/dune/alter_table_locations.sql
@@ -152,3 +151,7 @@ logs/
 dbt_subprojects/dex/spellbook-env/
 
 .cursor/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
